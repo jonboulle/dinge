@@ -1,2 +1,3 @@
 # dinge
-odds and ends, mostly in golang
+
+Odds and ends, mostly in golang. Might work, might not.
