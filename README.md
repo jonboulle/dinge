@@ -1,5 +1,5 @@
 # dinge
-
+![build](https://travis-ci.org/jonboulle/dinge.svg?branch=master)
 
 Odds and ends, mostly in golang. Might work, might not. Caveat lector.
 
